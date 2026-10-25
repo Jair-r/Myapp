@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "MiPrimeraApp",
+    "slug": "miprimeraapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.jairramirez.miprimeraapp"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
